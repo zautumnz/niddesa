@@ -1,10 +1,9 @@
 # Niddesa
 
-[Read Online](https://zacanger.com/niddesa/assets/niddesa.html) &middot;
-[PDF](https://zacanger.com/niddesa/assets/niddesa.pdf) &middot;
-[EPUB](https://zacanger.com/niddesa/assets/niddesa.epub) &middot;
-[Donate](https://ko-fi.com/zacanger) &middot;
-[Repository](https://github.com/zacanger/niddesa)
+[Read Online](https://zautumnz.github.io/niddesa/assets/niddesa.html) &middot;
+[PDF](https://zautumnz.github.io/niddesa/assets/niddesa.pdf) &middot;
+[EPUB](https://zautumnz.github.io/niddesa/assets/niddesa.epub) &middot;
+[Repository](https://github.com/zautumnz/niddesa)
 
 I recommend downloading the PDF or EPUB files, as the HTML is quite large and
 may bog down your browser.
@@ -21,12 +20,12 @@ to use.
 
 The ./book directory in the repo contains the contents. If you find a problem or
 want to help, please feel free to [submit an
-issue](https://github.com/zacanger/niddesa/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
+issue](https://github.com/zautumnz/niddesa/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
 
 ### The Code
 
 The initial translation code is in [this
-repo](https://github.com/zacanger/translate-batches). To build the book, run
+repo](https://github.com/zautumnz/translate-batches). To build the book, run
 `./build.sh`. You will need Docker.
 
 To release a new edition, update the introduction and create a tag along with a
