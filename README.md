@@ -5,6 +5,13 @@
 [EPUB](https://zautumnz.github.io/niddesa/assets/niddesa.epub) &middot;
 [Repository](https://github.com/zautumnz/niddesa)
 
+----
+
+### Important
+
+I highly recommend reading in the source languages if you can, or sponsoring
+someone to do a better translation. This is patchy, incomplete work.
+
 I recommend downloading the PDF or EPUB files, as the HTML is quite large and
 may bog down your browser.
 
